@@ -3670,6 +3670,7 @@ footer .row {
     width:100%;
     filter: brightness(60%);
     border-radius: 20px;
+    transition: 1s;
 }
 
 @media only screen and (max-width: 500px) {
@@ -3680,7 +3681,6 @@ footer .row {
 
 .img-custom:hover {
     filter: brightness(40%);
-    transition: all 1s ease;
 }
 
 #txt-project{

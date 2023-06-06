@@ -1,5 +1,6 @@
-Salary 6 euro/h
+Salary 6 euro/h + 20 euro for the template
 30.05 - 3h
 31.05 - 2h
 01.06 - 3h
 02.06 - 1h
+06.06 - 1h
