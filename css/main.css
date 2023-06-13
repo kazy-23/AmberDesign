@@ -67,10 +67,11 @@
     --secondary: #ffffff;
     --accent: #277f33;
     --old: #2d903a;
-    --section1: #111111;
+    --section1: #277f33;
     --section1-text: white;
-    --section2: black;
+    --section2: #277f33;
     --section2-text: white;
+    --list: white;
 }
 
 html {
@@ -381,7 +382,7 @@ ul.disc li::before {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: var(--accent);
+    background: var(--list);
     position: absolute;
     left: -17px;
     top: 11px;
@@ -2398,7 +2399,6 @@ html.no-csstransitions .home-content__main {
     background-color: var(--section2);
     color: var(--section2-text);
     position: relative;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../images/concrete-wall.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     backface-visibility: 2px;
