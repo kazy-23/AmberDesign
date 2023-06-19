@@ -5,8 +5,21 @@ Salary 6 euro/h + 20 euro for the template
 01.06 - 3h
 02.06 - 1h
 06.06 - 2h
-11.06 - 1h
+11.06 - 2h
+19.06 - 2h
 
-Total: 12h x 6 euro = 72 euro
+Total: 15h x 6 euro = 90 euro
++ Template: 90 + 20 = 110 euro
 2 weeks 72 euro => 1 month 144 euro = 159 euro
 6h/week => 6h x 6 euro = 36 euro/week
+
+Hi! Have you looked at some available domains? If not, that's ok. Here are some domains that are available and could fit your company:
+amberdesign.org (10 €, 12.50 €/year)
+amberdesign.info (4 €, 18 €/year)
+amber.design (117.60 €, 117.60 €/year)
+amber-design.lv (61.90 €, 66.90 €/year)
+amberdesignlatvia.com (11 €, 12.50 €/year)
+amberdesignlatvia.lv (61.90 €, 66.90 €/year)
+amberdesignlatvia.eu (4.99 €, 9.99 €/year)
+amberdesignlandscape.lv (61.90 €, 66.90 €/year)
+amberdesignlandscape.com (9.99 €, 13.99 €/year)
