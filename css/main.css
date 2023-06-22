@@ -65,7 +65,7 @@
 :root {
     --primary: #000000;
     --secondary: #ffffff;
-    --accent: #277f33;
+    --accent: #32a742;
     --old: #2d903a;
     --section1: #233E1E;
     --section1-text: white;
@@ -1483,6 +1483,10 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     z-index: 0;
 }
 
+.header-middle h3 span{
+    cursor: pointer;
+}
+
 .header-logo a {
     display: block;
     margin: 9px 0 0 0;
@@ -1796,7 +1800,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     left: 0;
     width: 100%;
     height: 100%;
-    opacity: .6;
+    opacity: .8;
     background-color: #000000;
 }
 

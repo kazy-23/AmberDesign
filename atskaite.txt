@@ -7,11 +7,14 @@ Salary 6 euro/h + 20 euro for the template
 06.06 - 2h
 11.06 - 2h
 19.06 - 2h
+22.06 - 2h
 
-Total: 15h x 6 euro = 90 euro
+Total: 16h x 6 euro = 90 euro
 + Template: 90 + 20 = 110 euro
 2 weeks 72 euro => 1 month 144 euro = 159 euro
 6h/week => 6h x 6 euro = 36 euro/week
+
+
 
 Hi! Have you looked at some available domains? If not, that's ok. Here are some domains that are available and could fit your company:
 amberdesign.org (10 €, 12.50 €/year)
