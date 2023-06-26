@@ -9,7 +9,7 @@ Salary 6 euro/h + 20 euro for the template
 19.06 - 2h
 22.06 - 2h
 
-Total: 16h x 6 euro = 90 euro
+Total: 17h x 6 euro = 90 euro
 + Template: 90 + 20 = 110 euro
 2 weeks 72 euro => 1 month 144 euro = 159 euro
 6h/week => 6h x 6 euro = 36 euro/week
